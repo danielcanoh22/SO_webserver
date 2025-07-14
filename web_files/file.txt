@@ -1,0 +1,3 @@
+Archivo TXT
+
+Este es el contenido de un archivo TXT
